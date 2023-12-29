@@ -1,0 +1,10 @@
+main:
+
+  - title: Artificial intelligence-powered electronic skin
+    authors: Changhao Xu, Samuel A. Solomon, Wei Gao
+    conference_short: Nat. Mach. Intell.
+    conference: Nature Machine Intelligence
+    pdf: ./assets/doc/ai_eskin.pdf
+    bibtex: https://www.nature.com/articles/s42256-023-00760-z
+    image: 
+
