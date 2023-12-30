@@ -1,0 +1,93 @@
+main:
+
+  - title: A wearable aptamer nanobiosensor for non-invasive female hormone monitoring
+    authors: Cui Ye, Minqiang Wang, Jihong Min, Roland Yingjie Tay, Heather Lukas, Juliane R. Sempionatto, Jiahong Li, Changhao Xu, Wei Gao
+    conference_short: Wearable sweat sensors
+    conference: Nature Nanotechnology, 2023
+    pdf: ./assets/doc/female_hormone.pdf
+    bibtex: https://www.nature.com/articles/s41565-023-01513-0
+    image: ./assets/doc/female_hormone.png
+
+  - title: 3D-printed epifluidic electronic skin for machine learning–powered multimodal health surveillance
+    authors: Yu Song, Roland Yingjie Tay, Jiahong Li, Changhao Xu, Jihong Min, Ehsan Shirzaei Sani, Gwangmook Kim, Wenzheng Heng, Inho Kim, Wei Gao
+    conference_short: Wearable sweat sensors
+    conference: Science Advances, 2023
+    pdf: ./assets/doc/3d_printing_eskin.pdf
+    bibtex: https://www.science.org/doi/10.1126/sciadv.adi6492
+    image: ./assets/doc/3d_printing_eskin.jpg
+
+  - title: An autonomous wearable biosensor powered by a perovskite solar cell
+    authors: Jihong Min, Stepan Demchyshyn, Juliane R. Sempionatto, Yu Song, Bekele Hailegnaw, Changhao Xu, Yiran Yang, Samuel Solomon,
+             Christoph Putz, Lukas E. Lehner, Julia Felicitas Schwarz, Clemens Schwarzinger, Markus Clark Scharber, Ehsan Shirzaei Sani, Martin Kaltenbrunner, Wei Gao
+    conference_short: Wearable sweat sensors
+    conference: Nature Electronics, 2023
+    pdf: ./assets/doc/perovskite_sweat_sensor.pdf
+    bibtex: https://www.nature.com/articles/s41928-023-00996-y
+    image: ./assets/doc/perovskite_sweat_sensor.png
+
+  - title: A wireless patch for the monitoring of C-reactive protein in sweat
+    authors: Jiaobing Tu, Jihong Min, Yu Song, Changhao Xu, Jiahong Li, Jeff Moore, Justin Hanson, Erin Hu, Tanyalak Parimon,
+             Ting-Yu Wang, Elham Davoodi, Tsui-Fen Chou, Peter Chen, Jeffrey J. Hsu, Harry B. Rossiter, Wei Gao
+    conference_short: Wearable sweat sensors
+    conference: Nature Biomedical Engineering, 2023
+    pdf: ./assets/doc/sweat_crp.pdf
+    bibtex: https://www.nature.com/articles/s41551-023-01059-5
+    image: ./assets/doc/sweat_crp.png
+
+  - title: A wearable electrochemical biosensor for the monitoring of metabolites and nutrients
+    authors: Minqiang Wang, Yiran Yang, Jihong Min, Yu Song, Jiaobing Tu, Daniel Mukasa, Cui Ye, Changhao Xu,
+             Nicole Heflin, Jeannine S. McCune, Tzung K. Hsiai, Zhaoping Li & Wei Gao
+    conference_short: Wearable sweat sensors
+    conference: Nature Biomedical Engineering, 2022
+    pdf: ./assets/doc/sweat_mip.pdf
+    bibtex: https://www.nature.com/articles/s41551-022-00916-z
+    image: ./assets/doc/sweat_mip.png
+  
+  - title: All-printed soft human-machine interface for robotic physicochemical sensing
+    authors: You Yu, Jiahong Li, Samuel A Solomon, Jihong Min, Jiaobing Tu, Wei Guo, Changhao Xu, Yu Song, Wei Gao
+    conference_short: Human-machine interface
+    conference: Science Robotics, 2022
+    pdf: ./assets/doc/physicochemical_hmi.pdf
+    bibtex: https://www.science.org/doi/10.1126/scirobotics.abn0495
+    image: ./assets/doc/physicochemical_hmi.jpg
+
+  - title: Emerging telemedicine tools for remote COVID-19 diagnosis, monitoring, and management
+    authors: Heather Lukas, Changhao Xu, You Yu, Wei Gao
+    conference_short: Telemedicine for COVID-19
+    conference: ACS Nano, 2020
+    pdf: ./assets/doc/telemedicine_covid_acs.pdf
+    bibtex: https://pubs.acs.org/doi/10.1021/acsnano.0c08494
+    image: ./assets/doc/telemedicine_covid_acs.png
+  
+  - title: "SARS-CoV-2 RapidPlex: A Graphene-based Multiplexed Telemedicine Platform for Rapid and Low-Cost COVID-19 Diagnosis and Monitoring"
+    authors: Rebeca M Torrente-Rodríguez, Heather Lukas, Jiaobing Tu, Jihong Min, Yiran Yang, Changhao Xu, Harry B Rossiter, Wei Gao
+    conference_short: Telemedicine for COVID-19
+    conference: Matter, 2020
+    pdf: ./assets/doc/telemedicine_covid_matter.pdf
+    bibtex: https://doi.org/10.1016/j.matt.2020.09.027
+    image: ./assets/doc/telemedicine_covid_matter.jpg
+
+  - title: Biofuel-powered Soft Electronic Skin with Multiplexed and Wireless Sensing for Human-Machine Interfaces
+    authors: You Yu, Joanna Nassar, Changhao Xu, Jihong Min, Yiran Yang, Adam Dai, Rohan Doshi, Adrian Huang, Yu Song, Rachel Gehlhar, Aaron D Ames, Wei Gao
+    conference_short: Eskin
+    conference: Science Robotics, 2020
+    pdf: ./assets/doc/bfc_eskin.pdf
+    bibtex: https://doi.org/10.1126/scirobotics.aaz7946
+    image: ./assets/doc/bfc_eskin.jpg
+
+  - title: Investigation of Cortisol Dynamics in Human Sweat Using a Graphene-Based Wireless mHealth System
+    authors: Rebeca M Torrente-Rodríguez, Jiaobing Tu, Yiran Yang, Jihong Min, Minqiang Wang, Yu Song, You Yu, Changhao Xu, Cui Ye, Waguih William IsHak, Wei Gao
+    conference_short: Wearable sweat sensors
+    conference: Matter, 2020
+    pdf: ./assets/doc/matter-cortisol.pdf
+    bibtex: https://www.cell.com/matter/fulltext/S2590-2385(20)30021-7
+    image: ./assets/doc/matter-cortisol.jpg
+
+  - title: Few-layer GeAs field effect transistors and infrared photodetectors
+    authors: Jian Guo, Yuan Liu, Yue Ma, Enbo Zhu, Shannon Lee, Zixuan Lu, Zipeng Zhao, Changhao Xu, Sung‐Joon Lee, Hao Wu, Kirill Kovnir, Yu Huang, Xiangfeng Duan
+    conference_short: Sensors & Devices
+    conference: Advanced Materials, 2018
+    pdf: ./assets/doc/geas_2d_fet.pdf
+    bibtex: https://doi.org/10.1002/adma.201705934
+    image: ./assets/doc/geas_2d_fet.jpg
+  

@@ -4,9 +4,9 @@
 
 <ul>
   <li>
-    Head Teaching Assistant, <a href="https://mede.caltech.edu/academics/courses/mede-201">MedE 201: Principles and Design of Medical Devices</a> at <a href="https://mede.caltech.edu/academics/courses">Caltech</a>, 2022
+    Head Teaching Assistant, <a href="https://mede.caltech.edu/academics/courses/mede-201">MedE 201: Principles and Design of Medical Devices</a> at <a href="https://mede.caltech.edu/academics/courses">Caltech</a>, &nbsp;&nbsp; &nbsp;&nbsp; 2020 and 2021
   </li>
   <li>
-    Guest Lecturer, <a href="https://mede.caltech.edu/academics/courses/mede-202">MedE 202: Sensors in Medicine</a> at <a href="https://mede.caltech.edu/academics/courses">Caltech</a>, 2022
+    Guest Lecturer, <a href="https://mede.caltech.edu/academics/courses/mede-202">MedE 202: Sensors in Medicine</a> at <a href="https://mede.caltech.edu/academics/courses">Caltech</a>, 2023
   </li>
 </ul>

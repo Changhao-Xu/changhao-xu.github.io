@@ -1,10 +1,11 @@
 # Basic Information 
 title: Changhao Xu
-position: Ph.D. major in Medical Engineering, minor in Computer Science
+position_1: Ph.D. major in Medical Engineering
+position_2: Ph.D. minor in Computer Science
 affiliation: California Institute of Technology
 affiliation_link: https://mede.caltech.edu/
 affiliation_logo: ./assets/img/caltech_logo.png
-email: <a href="mailto:cxu5@caltech.edu">cxu5@caltech.edu</a>
+email: cxu5@caltech.edu
 
 # Search Engine Optimization (SEO)
 keywords: changhao xu, xu changhao, changhaoxu, xuchanghao
@@ -22,7 +23,8 @@ enable_last_update: false
 link_type: icon #text/icon
 google_scholar: https://scholar.google.com/citations?user=X-1a2TgAAAAJ&hl=en
 cv_link: ./assets/doc/CV_ChanghaoXu.pdf
-github_link: https://github.com/Changhao-Xu
+# github_link: https://github.com/Changhao-Xu
+# github majority repositories are private consisting sensitive human studies data.
 linkedin: https://www.linkedin.com/in/changhao-xu-023200143/
 twitter: https://twitter.com/xu_changhao
 

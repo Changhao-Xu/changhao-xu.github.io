@@ -2,9 +2,66 @@ main:
 
   - title: Artificial intelligence-powered electronic skin
     authors: Changhao Xu, Samuel A. Solomon, Wei Gao
-    conference_short: Nat. Mach. Intell.
-    conference: Nature Machine Intelligence
+    conference_short: AI E-skin
+    conference: Nature Machine Intelligence, 2023
     pdf: ./assets/doc/ai_eskin.pdf
     bibtex: https://www.nature.com/articles/s42256-023-00760-z
-    image: 
+    image: ./assets/doc/ai-eskin.png
 
+  - title: A physicochemical sensing electronic skin for stress response monitoring
+    authors: Changhao Xu*, Yu Song*, Juliane R. Sempionatto*, Samuel A. Solomon*, You Yu, Hnin Y. Y. Nyein, Roland Yingjie Tay,
+             Jiahong Li, Wenzheng Heng, Jihong Min, Alison Lao, Tzung K. Hsiai, Jennifer A. Sumner, Wei Gao
+    conference_short: AI E-skin
+    conference: Nature Electronics, 2023
+    pdf: ./assets/doc/CARES.pdf
+    bibtex: 404.html
+    image: ./assets/doc/CARES.png
+
+  - title: A stretchable wireless wearable bioelectronic system for multiplexed monitoring and combination treatment of infected chronic wounds
+    authors: Ehsan Shirzaei Sani*, Changhao Xu*, Canran Wang, Yu Song, Jihong Min, Jiaobing Tu, Samuel A Solomon, Jiahong Li,
+             Jaminelli L Banks, David G Armstrong, Wei Gao
+    conference_short: E-skin
+    conference: Science Advances, 2023
+    pdf: ./assets/doc/smart_bandage.pdf
+    bibtex: https://www.science.org/doi/10.1126/sciadv.adf7388
+    image: ./assets/doc/smart_bandage.png
+
+  - title: Skin-Interfaced Wearable Sweat Sensors for Precision Medicine
+    authors: Jihong Min*, Jiaobing Tu*, Changhao Xu*, Heather Lukas*, Soyoung Shin, Yiran Yang, Samuel A. Solomon, Daniel Mukasa, Wei Gao
+    conference_short: Wearable sweat sensors
+    conference: Chemical Reviews, 2023
+    pdf: ./assets/doc/chem_rev_2023.pdf
+    bibtex: https://pubs.acs.org/doi/10.1021/acs.chemrev.2c00823
+    image: ./assets/doc/chem_rev_2023.jpg
+  
+  - title: "Skin-interfaced Sensors in Digital Medicine: from Materials to Applications"
+    authors: Changhao Xu, Yiran Yang, Wei Gao
+    conference_short: Wearable sensors
+    conference: Matter, 2020
+    pdf: ./assets/doc/matter_2020.pdf
+    bibtex: https://www.cell.com/matter/fulltext/S2590-2385(20)30133-8
+    image: ./assets/doc/matter_2020.jpg
+  
+  - title: Motile Microelectronics with Wireless Power
+    authors: Changhao Xu, Wei Gao
+    conference_short: news & views
+    conference: Nature Electronics, 2020
+    pdf: ./assets/doc/news_2020.pdf
+    bibtex: https://www.nature.com/articles/s41928-020-0386-z
+    image: ./assets/doc/news_2020.png
+
+  - title: Ultrathin Silicon Nanomembrane in a Tubular Geometry for Enhanced Photodetection
+    authors: Changhao Xu, Ruobing Pan, Qinglei Guo, Xiang Wu, Gongjin Li, Gaoshan Huang, Zhenghua An, Xiuling Li, Yongfeng Mei
+    conference_short: Sensors & Devices
+    conference: Advanced Optical Materials, 2019
+    pdf: ./assets/doc/si_photodetector.pdf
+    bibtex: https://doi.org/10.1002/adom.201900823
+    image: ./assets/doc/si_photodetector.jpg
+
+  - title: "Rolled-up Nanotechnology: Materials Issue and Geometry Capability"
+    authors: Changhao Xu, Xiang Wu, Gaoshan Huang, Yongfeng Mei
+    conference_short: Sensors & Devices
+    conference: Advanced Materials Technologies, 2019
+    pdf: ./assets/doc/rolled-up_nanotechnology.pdf
+    bibtex: https://doi.org/10.1002/admt.201800486
+    image: ./assets/doc/rolled-up_nanotechnology.jpg
