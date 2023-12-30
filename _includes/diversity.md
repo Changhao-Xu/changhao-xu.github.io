@@ -7,6 +7,6 @@
     Mentor of the Caltech MedE first-year mentorship program
   </li>
   <li>
-    Volunteer teacher (2023.9 - ) at San Marino High School
+    Volunteer teacher (2023.9 - ) at <a href="https://www.sanmarinohs.org/">San Marino High School</a>
   </li>
 </ul>

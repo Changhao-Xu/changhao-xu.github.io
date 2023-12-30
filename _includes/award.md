@@ -4,10 +4,10 @@
 
 <ul>
   <li>
-    <strong>[2023]</strong> Amazon AI4Science Fellow
+    <strong>[2023]</strong> <a href="https://www.eas.caltech.edu/news/changhao-xu-receives-ai4science-fellowship">the Amazon AI4Science Fellowship</a>
   </li>
   <li>
-    <strong>[2019]</strong> Caltech KNI cleanroom resident expert
+    <strong>[2019]</strong> <a href=".assets/doc/caltech_cleanroom_resident_expert.png">Caltech KNI cleanroom resident expert</a>
   </li>
   <li>
     <strong>[2017]</strong> UCLA CSST Scholar
