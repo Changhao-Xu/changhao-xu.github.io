@@ -39,11 +39,11 @@ favicon_dark: ./assets/img/favicon-dark.png
 # Analytics
 # Please remove the following lines about analytics services if you fork my project. 
 # Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
-# clustrmaps_id: ${{ secrets.CLUSTRMAPS_ID }}
+clustrmaps_id: NHcwxXwwmQQod7FI724oAQ1rOf8OR_kZxp6X6te97VE
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
-# google_analytics: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+google_analytics: ${{ secrets.GOOGLE_SCHOLAR_ID }}
 
 # The following files will be removed from the generated website.
 exclude:
