@@ -12,7 +12,7 @@ My research interests are in the intersections of **electronic skin**, **machine
 
 To that end, my research has three goals: **(1) develop advanced materials and systems for continuous long-term monitoring; (2) bridge sensor data with robotics and health information through an autonomous machine learning pipeline; and (3) advance intelligent robotic control and health assessment using smart sensors.**
 
-<strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am currently on the 2024 job market, looking for postdoc positions related to Electronic Skin, Wearable Devices, and Artificial Intelligence. Please feel free to contact me if you are interested. I am also happy to give talks on my research and discuss research proposals.</strong></strong>
+<!-- <strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am currently on the 2024 job market, looking for postdoc positions related to Electronic Skin, Wearable Devices, and Artificial Intelligence. Please feel free to contact me if you are interested. I am also happy to give talks on my research and discuss research proposals.</strong></strong> -->
 
 {% include_relative _includes/news.md %}
 
