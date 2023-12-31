@@ -43,7 +43,7 @@ clustrmaps_id: NHcwxXwwmQQod7FI724oAQ1rOf8OR_kZxp6X6te97VE
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
-google_analytics: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+# google_analytics: ${{ secrets.GOOGLE_SCHOLAR_ID }}
 
 # The following files will be removed from the generated website.
 exclude:
