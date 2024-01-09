@@ -14,7 +14,7 @@ main:
     conference_short: AI E-skin
     conference: Nature Electronics, 2023
     pdf: ./assets/doc/CARES.pdf
-    bibtex: 404.html
+    bibtex: https://doi.org/10.1038/s41928-023-01116-6
     image: ./assets/doc/CARES.png
 
   - title: A stretchable wireless wearable bioelectronic system for multiplexed monitoring and combination treatment of infected chronic wounds
