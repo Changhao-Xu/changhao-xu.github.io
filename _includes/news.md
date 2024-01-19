@@ -4,16 +4,19 @@
 
 <ul>
   <li>
-    <strong>[JAN. 2024]</strong> I will defend my Ph.D. on January 3rd at Moore B270, Caltech. Welcome to join!
+    <strong>[JAN. 2024]</strong> Our research paper on "AI-powered e-skin for stress response monitoring" has been published at 
+    <span style="color:#e74d3c">
+      <a href="https://doi.org/10.1038/s41928-023-01116-6">Nature Electronics</a>
+    </span>.
+  </li>
+  <li>
+    <strong>[JAN. 2024]</strong> I defended my Ph.D. on January 3rd at Caltech.
   </li>
   <li>
     <strong>[Dec. 2023]</strong> Our review paper on "AI powered e-skin" has been published at 
     <span style="color:#e74d3c">
       <a href="https://doi.org/10.1038/s42256-023-00760-z">Nature Machine Intelligence</a>
     </span>.
-  </li>
-  <li>
-    <strong>[NOV. 2023]</strong> Our research paper on "AI-powered e-skin for stress response monitoring" has been accepted at Nature Electronics. Stay tuned!
   </li>
   <li>
     <strong>[MAR. 2023]</strong> Changhao was awarded 

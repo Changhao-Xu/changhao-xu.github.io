@@ -4,7 +4,7 @@
 
 <ul>
   <li>
-    <strong>[2023]</strong> Lauren Wang and Aayan Khan (from <a href="https://www.sanmarinohs.org/">San Marino High School</a>)
+    <strong>[2023]</strong> Lauren Wang and <a href="https://www.linkedin.com/in/aayan-khan-640a46270/">Aayan Khan</a> (from <a href="https://www.sanmarinohs.org/">San Marino High School</a>)
   </li>
   <li>
     <strong>[2023]</strong> Ruixiao Liu, Ph.D. student at Caltech
