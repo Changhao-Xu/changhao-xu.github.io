@@ -8,6 +8,10 @@
     <span style="color:#e74d3c">
       <a href="https://doi.org/10.1038/s41928-023-01116-6">Nature Electronics</a>
     </span>.
+    Check our story
+    <span style="color:#e74d3c">
+      <a href="https://communities.springernature.com/posts/evaluating-stress-with-artificial-intelligence-powered-electronic-skin">behind the paper</a>
+    </span>.
   </li>
   <li>
     <strong>[JAN. 2024]</strong> I defended my Ph.D. on January 3rd at Caltech.
