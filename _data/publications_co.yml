@@ -69,7 +69,7 @@ main:
 
   - title: Biofuel-powered Soft Electronic Skin with Multiplexed and Wireless Sensing for Human-Machine Interfaces
     authors: You Yu, Joanna Nassar, Changhao Xu, Jihong Min, Yiran Yang, Adam Dai, Rohan Doshi, Adrian Huang, Yu Song, Rachel Gehlhar, Aaron D Ames, Wei Gao
-    conference_short: Eskin
+    conference_short: E-skin
     conference: Science Robotics, 2020
     pdf: ./assets/doc/bfc_eskin.pdf
     bibtex: https://doi.org/10.1126/scirobotics.aaz7946
