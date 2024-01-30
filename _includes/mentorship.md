@@ -7,7 +7,7 @@
     <strong>[2023]</strong> Lauren Wang and <a href="https://www.linkedin.com/in/aayan-khan-640a46270/">Aayan Khan</a> (from <a href="https://www.sanmarinohs.org/">San Marino High School</a>)
   </li>
   <li>
-    <strong>[2023]</strong> Ruixiao Liu, Ph.D. student at Caltech
+    <strong>[2023]</strong> <a href="https://www.linkedin.com/in/ruixiao-liu-9221561a2/">Ruixiao Liu</a>, Ph.D. student at Caltech
   </li>
   <li>
     <strong>[2023]</strong> <a href="https://www.linkedin.com/in/ashwitha-surabhi/">Ashwitha Surabhi</a> (from Caltech CNS), Caltech SURF
