@@ -4,6 +4,12 @@
 
 <ul>
   <li>
+    <span style="text-decoration: underline;">
+    I commit 1~2 hours every week to provide guidance, suggestions, and mentorships for students from underrepresented groups or whoever is in need. Please fill in <a href="https://forms.gle/g5L24YJ8ha9j7CxT9">this form</a> if you are interested.
+    </span>
+  </li>
+  <br>
+  <li>
     Mentor of the Caltech MedE first-year mentorship program
   </li>
   <li>

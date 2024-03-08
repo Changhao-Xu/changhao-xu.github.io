@@ -4,6 +4,12 @@
 
 <ul>
   <li>
+    <strong>[FEB. 2024]</strong> Our research paper on "AI-powered e-skin for stress response monitoring" was featured by a
+    <span style="color:#e74d3c">
+      <a href="https://www.nature.com/articles/s41928-024-01128-w">News & Views at Nature Electronics</a>
+    </span>.
+  </li>
+  <li>
     <strong>[JAN. 2024]</strong> Our research paper on "AI-powered e-skin for stress response monitoring" has been published at 
     <span style="color:#e74d3c">
       <a href="https://doi.org/10.1038/s41928-023-01116-6">Nature Electronics</a>
@@ -23,7 +29,7 @@
     </span>.
   </li>
   <li>
-    <strong>[MAR. 2023]</strong> Changhao was awarded 
+    <strong>[MAR. 2023]</strong> I was awarded 
     <span style="color:#e74d3c">
       <a href="https://www.eas.caltech.edu/news/changhao-xu-receives-ai4science-fellowship">the Amazon AI4Science Fellowship</a>
     </span>.
