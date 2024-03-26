@@ -14,6 +14,7 @@
   <li><a href="https://ieee-jflex.org/"><autocolor>IEEE Journal on Flexible Electronics</autocolor></a></li>
   <li><a href="https://ietresearch.onlinelibrary.wiley.com/journal/20400861"><autocolor>Micro & Nano Letters</autocolor></a></li>
   <li><a href="https://pubs.acs.org/journal/nalefd"><autocolor>Nano Letters</autocolor></a></li>
+  <li><a href="https://www.nature.com/natmachintell/"><autocolor>Nature Machine Intelligence</autocolor></a></li>
   <li><a href="https://www.nature.com/srep/"><autocolor>Scientific Reports</autocolor></a></li>
   <li><a href="https://www.rsc.org/journals-books-databases/about-journals/sensors-diagnostics/"><autocolor>Sensors & Diagnostics</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/sensors-and-actuators-b-chemical"><autocolor>Sensors and Actuators B: Chemical</autocolor></a></li>
