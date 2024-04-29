@@ -1,5 +1,14 @@
 main:
 
+  - title: A physicochemical sensing electronic skin for stress response monitoring
+    authors: Changhao Xu*, Yu Song*, Juliane R. Sempionatto*, Samuel A. Solomon*, You Yu, Hnin Y. Y. Nyein, Roland Yingjie Tay,
+             Jiahong Li, Wenzheng Heng, Jihong Min, Alison Lao, Tzung K. Hsiai, Jennifer A. Sumner, Wei Gao
+    conference_short: AI E-skin
+    conference: Nature Electronics, 2024
+    pdf: ./assets/doc/CARES.pdf
+    bibtex: https://doi.org/10.1038/s41928-023-01116-6
+    image: ./assets/doc/CARES.png
+
   - title: Artificial intelligence-powered electronic skin
     authors: Changhao Xu, Samuel A. Solomon, Wei Gao
     conference_short: AI E-skin
@@ -7,15 +16,6 @@ main:
     pdf: ./assets/doc/ai_eskin.pdf
     bibtex: https://www.nature.com/articles/s42256-023-00760-z
     image: ./assets/doc/ai-eskin.png
-
-  - title: A physicochemical sensing electronic skin for stress response monitoring
-    authors: Changhao Xu*, Yu Song*, Juliane R. Sempionatto*, Samuel A. Solomon*, You Yu, Hnin Y. Y. Nyein, Roland Yingjie Tay,
-             Jiahong Li, Wenzheng Heng, Jihong Min, Alison Lao, Tzung K. Hsiai, Jennifer A. Sumner, Wei Gao
-    conference_short: AI E-skin
-    conference: Nature Electronics, 2023
-    pdf: ./assets/doc/CARES.pdf
-    bibtex: https://doi.org/10.1038/s41928-023-01116-6
-    image: ./assets/doc/CARES.png
 
   - title: A stretchable wireless wearable bioelectronic system for multiplexed monitoring and combination treatment of infected chronic wounds
     authors: Ehsan Shirzaei Sani*, Changhao Xu*, Canran Wang, Yu Song, Jihong Min, Jiaobing Tu, Samuel A Solomon, Jiahong Li,
