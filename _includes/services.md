@@ -8,6 +8,7 @@
   <li><a href="https://pubs.acs.org/journal/ascefj"><autocolor>ACS Sensors</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/biosensors-and-bioelectronics"><autocolor>Biosensors and Bioelectronics</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/biomedical-engineering-advances"><autocolor>Biomedical Engineering Advances</autocolor></a></li>
+  <li><a href="https://www.mdpi.com/journal/bioengineering"><autocolor>Bioengineering</autocolor></a></li>
   <li><a href="https://onlinelibrary.wiley.com/journal/15214109"><autocolor>Electroanalysis</autocolor></a></li>
   <li><a href="https://www.mdpi.com/journal/electronics"><autocolor>Electronics</autocolor></a></li>
   <li><a href="https://ieee-sensors.org/journals/"><autocolor>IEEE Biosensors</autocolor></a></li>
@@ -16,6 +17,7 @@
   <li><a href="https://www.mdpi.com/journal/micromachines"><autocolor>Micromachines</autocolor></a></li>
   <li><a href="https://ietresearch.onlinelibrary.wiley.com/journal/20400861"><autocolor>Micro & Nano Letters</autocolor></a></li>
   <li><a href="https://pubs.acs.org/journal/nalefd"><autocolor>Nano Letters</autocolor></a></li>
+  <li><a href="https://www.nature.com/ncomms/"><autocolor>Nature Communications</autocolor></a></li>
   <li><a href="https://www.nature.com/natmachintell/"><autocolor>Nature Machine Intelligence</autocolor></a></li>
   <li><a href="https://www.nature.com/srep/"><autocolor>Scientific Reports</autocolor></a></li>
   <li><a href="https://www.mdpi.com/journal/sensors"><autocolor>Sensors</autocolor></a></li>

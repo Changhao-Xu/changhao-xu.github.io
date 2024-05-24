@@ -7,7 +7,10 @@
     <strong>[2024]</strong> <a href="https://www.linkedin.com/in/jack-marionsims-136836260">Jack MarionSims</a> (from MIT CS)
   </li>
   <li>
-    <strong>[2023]</strong> Lauren Wang and <a href="https://www.linkedin.com/in/aayan-khan-640a46270/">Aayan Khan</a> (from <a href="https://www.sanmarinohs.org/">San Marino High School</a>)
+    <strong>[2023]</strong> Lauren Wang (from <a href="https://www.sanmarinohs.org/">San Marino High School</a>). Next: Undergrad at UCLA
+  </li>
+  <li>
+    <strong>[2023]</strong> <a href="https://www.linkedin.com/in/aayan-khan-640a46270/">Aayan Khan</a> (from <a href="https://www.sanmarinohs.org/">San Marino High School</a>). Next: Undergrad at UCSD
   </li>
   <li>
     <strong>[2023]</strong> <a href="https://www.linkedin.com/in/ruixiao-liu-9221561a2/">Ruixiao Liu</a>, Ph.D. student at Caltech
