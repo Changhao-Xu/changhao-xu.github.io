@@ -9,6 +9,8 @@
   <li><a href="https://www.sciencedirect.com/journal/biosensors-and-bioelectronics"><autocolor>Biosensors and Bioelectronics</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/biomedical-engineering-advances"><autocolor>Biomedical Engineering Advances</autocolor></a></li>
   <li><a href="https://www.mdpi.com/journal/bioengineering"><autocolor>Bioengineering</autocolor></a></li>
+  <li><a href="https://www.cell.com/device/home"><autocolor>Device</autocolor></a></li>
+  <li><a href="https://www.mdpi.com/journal/diagnostics"><autocolor>Diagnostics</autocolor></a></li>
   <li><a href="https://onlinelibrary.wiley.com/journal/15214109"><autocolor>Electroanalysis</autocolor></a></li>
   <li><a href="https://www.mdpi.com/journal/electronics"><autocolor>Electronics</autocolor></a></li>
   <li><a href="https://ieee-sensors.org/journals/"><autocolor>IEEE Biosensors</autocolor></a></li>
