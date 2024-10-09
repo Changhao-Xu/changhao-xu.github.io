@@ -6,33 +6,30 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">About Me</h2>
 
-I am currently a Ph.D. at [California Institute of Technology](https://www.caltech.edu/). I hold a subject major in [Medical Engineering](https://mede.caltech.edu/), where I am fortunate to be advised by [Prof. Wei Gao](https://www.gao.caltech.edu/). I also hold a subject minor in [Computer Science](https://www.cms.caltech.edu/academics/grad/grad_cs), where I am fortunate to be advised by [Prof. Yisong Yue](http://www.yisongyue.com/). I obtained my bachelor’s degree from [Fudan University](https://www.fudan.edu.cn/en/), where I was fortunate to be advised by [Prof. Yongfeng Mei](https://scholar.google.com/citations?user=6EFvn5wAAAAJ&hl=en). As part of the [Cross-disciplinary Scholars in Science & Technology program](https://www.facebook.com/uclaCSST/), I conducted summer undergraduate research supervised by [Prof. Xiangfeng Duan](http://xduan.chem.ucla.edu/) at the [University of California Los Angeles](https://www.ucla.edu/). In 2016, I was an exchange student in Physics at the [University of California Los Angeles](https://www.ucla.edu/).
+I am a postdoc at Stanford University, advised by [Prof. Zhenan Bao](https://baogroup.stanford.edu/people/postdoctoral-scholars). I am a newly minted Ph.D. from [Caltech](https://www.caltech.edu/). I received my degree from [Medical Engineering](https://mede.caltech.edu/) and [Computer Science](https://www.cms.caltech.edu/academics/grad/grad_cs), advised by [Prof. Wei Gao](https://www.gao.caltech.edu/) and [Prof. Yisong Yue](http://www.yisongyue.com/).
 
-My research interests lie in <u><strong>machine learning</strong></u> and <u><strong>wearable devices</strong></u>. In particular, I am interested in machine learning for robotics and medicine based on continuous data collected by wearables. Most recently, I have been exploring using **foundation models** for human health assessment. My research currently has three goals:
-<div style="margin-left: 10px;"><strong>(1)</strong>
-    develop robust wearable sensors in an integrated electronic skin for continuous monitoring;
-</div>
-<div style="margin-left: 10px;"><strong>(2)</strong>
-efficient data processing and model prediction for time-series multimodal biosignals datastream;
-</div>
-<div style="margin-left: 10px;"><strong>(3)</strong>
-advance robotics and health assessment with computationally efficient foundation models.
-</div>
+I obtained my bachelor’s degree from [Fudan University](https://www.fudan.edu.cn/en/), advised by [Prof. Yongfeng Mei](https://scholar.google.com/citations?user=6EFvn5wAAAAJ&hl=en). I conducted summer undergraduate research supervised by [Prof. Xiangfeng Duan](http://xduan.chem.ucla.edu/) at [UCLA](https://www.ucla.edu/) as part of the [CSST program](https://www.facebook.com/uclaCSST/) in 2017. I was an exchange student in Physics at [UCLA](https://www.ucla.edu/) in 2016.
 
-<!-- <strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am currently on the 2024 job market, looking for postdoc positions related to Electronic Skin, Wearable Devices, and Artificial Intelligence. Please feel free to contact me if you are interested. I am also happy to give talks on my research and discuss research proposals.</strong></strong> -->
+<strong>This is what I do</strong>
 
-{% include_relative _includes/news.md %}
+<ul>
+  <li>I work on machine learning (teach machines to enhance decision-making), wearable devices (design health solutions through sensors), and data science (extracting insights from complex data).</li>
+  <li>I write models, pipelines, and apps. I enjoy learning and problem solving.</li>
+  <li>I make sensors, electronics, and integrated platforms. I am always the first to test these wearables on myself.</li>
+</ul>
 
-{% include_relative _includes/publications.md %}
+<strong>This is what I did</strong>
 
-{% include_relative _includes/teaching.md %}
+<ul>
+  <li>I developed robust physiological and biochemical sensors in an integrated electronic skin for continuous monitoring.</li>
+  <li>I wrote machine learning models for time-series multimodal biosignals datastream.</li>
+  <li>I wrote a doctoral thesis titled <a href="https://thesis.library.caltech.edu/16297/">Electronic Skin in Robotics and Healthcare: Towards Multimodal Sensing and Intelligent Analysis</a>.</li>
+</ul>
 
-{% include_relative _includes/mentorship.md %}
+<strong>This is what I hope</strong>
 
-{% include_relative _includes/award.md %}
-
-{% include_relative _includes/talks.md %}
-
-{% include_relative _includes/services.md %}
-
-{% include_relative _includes/diversity.md %}
+<ul>
+  <li>You feel happy and you have a good day.</li>
+  <li>You are interested in <a href="/research/">my research</a> (or you pretend to be :) ).</li>
+  <li>Please feel free to contact me for any opportunities.</li>
+</ul>

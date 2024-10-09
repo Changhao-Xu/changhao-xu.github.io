@@ -29,5 +29,6 @@
 
 <h4 style="margin:0 10px 0;">Guest Editors (Alphabetical Order)</h4>
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.mdpi.com/journal/electronics"><autocolor>Electronics</autocolor></a></li>
+  <li><a href="https://www.mdpi.com/journal/electronics/special_issues/Wearable"><autocolor>Electronics</autocolor></a></li>
+  <li><a href="https://www.elspub.com/journals/electronics-and-signal-processing/special_issues/innovative-wearable-sensing-technologies-and-integrated-systems-for-personalized-health-management"><autocolor>Electronics and Signal Processing</autocolor></a></li>
 </ul>

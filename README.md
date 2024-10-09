@@ -14,6 +14,8 @@ This project uses the source code from the following repositories:
 
 * [yaoyao-liu homepage](https://github.com/yaoyao-liu/yaoyao-liu.github.io)
 
+* [yunzong-xu homepage](https://yunzongxu.github.io/)
+
 * [pages-themes/minimal](https://github.com/pages-themes/minimal)
 
 * [orderedlist/minimal](https://github.com/orderedlist/minimal)

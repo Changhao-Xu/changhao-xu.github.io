@@ -1,17 +1,17 @@
 # Basic Information 
 title: Changhao Xu
-position_1: Ph.D. major in Medical Engineering
-position_2: Ph.D. minor in Computer Science
-affiliation: California Institute of Technology
-affiliation_link: https://mede.caltech.edu/
-affiliation_logo: ./assets/img/caltech_logo.png
+position_1: Postdoc at Stanford
+# position_2: 
+affiliation: Ph.D. in MedE and CS, Caltech
+affiliation_link: https://www.caltech.edu/
+affiliation_logo: /assets/img/caltech_logo.png
 email: changhaoxu14@gmail.com
 
 # Search Engine Optimization (SEO)
 keywords: changhao xu, xu changhao, changhaoxu, xuchanghao
 canonical: https://chxu.me/
-description: Changhao Xu is a Ph.D. candidate at California Institute of Technology.
-             His research lies in electronic skin, machine learning, robotics and personalized medicine.
+description: Changhao Xu is a newly minted Ph.D. from Caltech.
+             His expertise lies in wearable devices, machine learning, and data science.
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: false
@@ -22,16 +22,16 @@ enable_last_update: false
 # Links
 link_type: icon #text/icon
 google_scholar: https://scholar.google.com/citations?user=X-1a2TgAAAAJ&hl=en
-cv_link: ./assets/doc/CV_ChanghaoXu.pdf
-# github_link: https://github.com/Changhao-Xu
+# cv_link: /assets/doc/CV_ChanghaoXu.pdf
+github_link: https://github.com/Changhao-Xu
 # github majority repositories are private consisting sensitive human studies data.
 linkedin: https://www.linkedin.com/in/changhao-xu-023200143/
 twitter: https://twitter.com/xu_changhao
 
 # Images 
-avatar: ./assets/img/profile.jpg
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+avatar: /assets/img/profile.jpg
+favicon: /assets/img/favicon.png
+favicon_dark: /assets/img/favicon-dark.png
 
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
 # enable_footnote: false
