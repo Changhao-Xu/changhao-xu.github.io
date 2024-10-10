@@ -32,5 +32,5 @@ I obtained my bachelor’s degree from [Fudan University](https://www.fudan.edu.
 <ul>
   <li>You feel happy and you have a good day.</li>
   <li>You are interested in <a href="/research/">my research</a> (or you pretend to be :) ).</li>
-  <li>Please feel free to contact me for any opportunities.</li>
+  <li>Please feel free to <a href="mailto:changhaoxu14@gmail.com">contact me</a> for any opportunities.</li>
 </ul>
